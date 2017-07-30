@@ -1,0 +1,5 @@
+# Diable adding the environment to the repository
+env/**
+data/**
+disease/**
+**/__pycache__/**
